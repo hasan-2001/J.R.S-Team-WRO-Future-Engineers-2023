@@ -10,4 +10,4 @@ This repository offers data and knowledge on the ongoing advancement, growth, an
 * `video` contains the video.md file with the link to a video
 * `schemes` contain schematic diagram for robot
 * `src` contains the code of control software for all components
-* * `report` contains The Engineering Notebook
+* `report` contains The Engineering Notebook
